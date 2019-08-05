@@ -1,5 +1,5 @@
 maximmasterr:iic
 THEb0nny:add-rgbraw-mode-for-colors
-THEb0nny:add-rawref-colors
+# THEb0nny:add-rawref-colors # Not possible because conflict with rgb
 maximmasterr:set-settle
 maximmasterr:multiple-sensors2

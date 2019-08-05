@@ -4,6 +4,5 @@ This version contains:
 
 ✓ IIC sensors support
 ✓ RGB color sensor reading
-✓ Ref RAW color sensor reading
 ✓ Set settle time of motot
 ✓ Second fix of multiple sensors
