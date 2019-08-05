@@ -1,0 +1,9 @@
+This is improved version of pxt-ev3
+Thanks to maximmasterr (>MAX_) and THEb0nny (Dmitriy Antipov)
+This version contains:
+
+✓ IIC sensors support
+✓ RGB color sensor reading
+✓ Ref RAW color sensor reading
+✓ Set settle time of motot
+✓ Second fix of multiple sensors
